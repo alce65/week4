@@ -1,5 +1,3 @@
-import { SyntheticEvent } from "react";
-
 export function User({
     name,
     onDelete,
